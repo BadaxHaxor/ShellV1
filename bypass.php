@@ -11,8 +11,8 @@ $_POST[$key] = stripslashes($value);
 echo '<!DOCTYPE HTML>
 <html>
 <head>
-<title>Shell~Bypass</title>
-<meta name="description" content="Ga Ngehek, Ga makan">
+<title>Aku Stress Butuh Kopi</title>
+<meta name="description" content="Aku Butuh Kopi dan berikanlah seratus">
 <link href="https://fonts.googleapis.com/css?family=Kelly+Slab" rel="stylesheet" type="text/css">
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
 <center>
