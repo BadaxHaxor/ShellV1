@@ -1870,8 +1870,8 @@ dimenangkan." />
                             }
                             </style>
 <div class="Slot186">
-<a href="https://t.ly/Seo3Fighter" rel="nofollow noreferrer" class="register">DAFTAR</a>
-<a href="https://t.ly/Seo3Fighter" rel="nofollow noreferrer" class="login">LOGIN</a>
+<a href="#" rel="nofollow noreferrer" class="register">DAFTAR</a>
+<a href="#" rel="nofollow noreferrer" class="login">LOGIN</a>
 </div>
 <br>
 </div>
